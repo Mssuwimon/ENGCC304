@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include <math.h>
+
 
 int isArmstrong(int num) {
     int temp, digit, sum = 0, count = 0;
